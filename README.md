@@ -237,3 +237,6 @@ This repository serves as the official landing page for Duplicate Sweeper. The s
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Duplicate Sweeper today!**
+
+---
+**Last updated:** 2026-09-07 19:32:17 UTC
