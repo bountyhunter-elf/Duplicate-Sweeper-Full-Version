@@ -239,4 +239,4 @@ This repository serves as the official landing page for Duplicate Sweeper. The s
 **Get the most recent version of Duplicate Sweeper today!**
 
 ---
-**Last updated:** 2026-09-16 22:34:22 UTC
+**Last updated:** 2026-09-17 01:01:43 UTC
